@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jean Gagnier> -- <Supreme Commander> -- <@jeanpaulgagnier>
 
 # THANKS
 
